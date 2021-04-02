@@ -14,7 +14,7 @@ function Header(props) {
         <h4 className="my-0 mr-md-auto font-weight-normal">
           <Link to="/" className="text-white">
             {' '}
-            ComplexApp!!{' '}
+            SocialApp{' '}
           </Link>
         </h4>
         {!props.staticEmpty ? headerContent : ''}
